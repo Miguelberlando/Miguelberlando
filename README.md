@@ -1,6 +1,8 @@
 ## Miguel Berlando 
 **`Desenvolvedor Web Front-End`**
 <p>
+Olá! Eu sou o Miguel, tenho 19 anos e sou natural de Sao Bernardo do Campo - SP. Atualmente estou cursando Tecnologia em Informática para Negócios pela Faculdade de Tecnologia de Sao Bernardo do Campo (FATEC-SBC). Como tecnologias aprendidas, possuo nível acadêmico a básico nas linguagens HTML5, CSS3 e Python; tendo sido realizado com essa última, um projeto de fim de semestre utilizando laços de repetição. No momento - estou estudando de forma autodidada - a linguagem JavaScript, tendo até o momento o nível básico. 
+<p>
 <p>
 
 
