@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=cylinder&color=0c181f&height=200&section=header&text=Miguel%20Berlando&fontSize=40&fontColor=946b3a&font=sans-serif" style="display: block; margin-bottom: -10px;"/><div align="center" style="magin-top:-30px">
+<img width=100% src="https://capsule-render.vercel.app/api?type=cylinder&color=0c181f&height=200&section=header&text=Miguel%20Berlando&fontSize=50&fontColor=946b3a&font=sans-serif" style="display: block; margin-bottom: -10px;"/><div align="center" style="magin-top:-30px">
  <a href="https://www.linkedin.com/in/miguel-berlando-3085b32a4" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230c181f?style=for-the-badge&logo=linkedin&logoColor=ffffff" target="_blank">
  </a> 
