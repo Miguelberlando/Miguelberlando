@@ -1,45 +1,98 @@
+<!-- HEADER -->
+<h1 align="center" style="color:#FFFFFF; font-weight:300; letter-spacing:3px; margin-bottom:5px;">
+  MIGUEL BERLANDO
+</h1>
+<p align="center" style="color:#FFFFFF; font-size:18px; margin-top:-5px;">
+  Desenvolvedor em Formação
+</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=cylinder&color=0c181f&height=200&section=header&text=Miguel%20Berlando&fontSize=50&fontColor=946b3a&font=sans-serif" style="display: block; margin-bottom: -10px;"/><div align="center" style="magin-top:-30px">
- <a href="https://www.linkedin.com/in/miguel-berlando-3085b32a4" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-%230c181f?style=for-the-badge&logo=linkedin&logoColor=ffffff" target="_blank">
- </a> 
- <a href = "mailto:miguel.berlando@gmail.com">
-   <img src="https://img.shields.io/badge/-Gmail-%230c181f?style=for-the-badge&logo=gmail&logoColor=946b3a" target="_blank">
- </a>
+<hr style="border:0; height:2px; background:linear-gradient(90deg,transparent,#ffffff,transparent); margin:25px 0;">
+
+
+<!-- CONTATOS -->
+<div align="center" style="margin-top:-10px">
+
+  <a href="https://www.linkedin.com/in/miguel-berlando-3085b32a4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF">
+  </a>
+
+  <a href="mailto:miguel.berlando@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF">
+  </a>
+
 </div>
+
+
+## Sobre mim
+Sou estudante de **Informática para Negócios (FATEC)** e desenvolvedor em formação, buscando minha **primeira oportunidade como estagiário**.  
+Tenho facilidade em aprender novas ferramentas, gosto de ajudar pessoas e me esforço para entregar tudo com organização, responsabilidade e foco.
+
+Atualmente estudo:
+
+- **JavaScript** (aprendizado autodidata)  
+- **Lógica de Programação**  
+- **Python**  
+- **Git e GitHub**  
+
+Também possuo:
+- Certificado de **Honra ao Mérito**
+- Certificação **Six Sigma White Belt**
+- Inglês **Intermediário B1 (TOEIC)**
+
+
+## Soft Skills
+<div align="center" style="color:#FFFFFF;">  
+✔ Comunicação clara  
+✔ Organização e priorização diária  
+✔ Responsabilidade com entregas  
+✔ Facilidade para trabalho em equipe  
+✔ Atendimento ao cliente (experiência prévia)  
+✔ Noção de Disciplina e Hierarquia
+✔ Rápida adaptação e aprendizado
+</div>
+
+
+## 👨🏽‍💻 Tecnologias em Aprendizado
 <div align="center">
- <h3>💻 Desenvolvedor Front-End em Formação</h3>
-  <p><strong>Estudante motivado buscando primeira oportunidade para crescer e contribuir</strong></p>
-  <p>📍 São Bernardo do Campo, SP | 🎓 Tecnologia em Informática - FATEC | 19 anos</p>
+
+  <img alt="JavaScript" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img alt="Git" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+  <img alt="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+
 </div>
 
-<hr>
 
-**👨🏽‍💻Tecnologias em Aprendizado:**
-<div align="center" style = "margin-top:30px; display:flex; justify-content:center; gap:15px; flex-wrap:wrap"><br>
-<img align="center" alt="JS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"height="40" width="40"/>
-<img align="center" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"height="40" width="40"/>
-<img align="center" alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"height="40" width="40"/>
-<img align="center" alt="Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="40"/>
+## 📊 Estatísticas 
+<div align="center" style="display:flex; gap:20px; flex-wrap:wrap;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Miguelberlando&title_color=FFFFFF&bg_color=000000&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&show_icons=true&width=350"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelberlando&layout=compact&title_color=FFFFFF&bg_color=000000&text_color=FFFFFF&hide_border=true&width=350"/>
+
 </div>
 
-<hr>
 
-<div style= "display: flex; justify-content: center; align-items:stretch; flex-wrap:wrap; gap:20px; margin-top:20px">
-<img src = "https://github-readme-stats.vercel.app/api?username=Miguelberlando&title_color=946b3a&bg_color=0c181f&text_color=946b3a&width=350"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelberlando&hide_progress=true&layout=compact&title_color=946b3a&bg_color=0c181f&text_color=946b3a&iconColor=946b3a&width=350"/>
-</div>
-
-<hr>
+## 🚀 Projetos
 <div align="center">
-<h3><b>🎯Objetivos:</b></h3>
- <p>Buscando <strong> oportunidade como estagiário</strong> para obter, principalmente, <strong>aprendizado com profissionais</strong> da área de tecnologia; além de buscar <strong>agregar á equipe e á empresa</strong> e desenvolver minhas habilidades no processo.
+
+### 🔹 Urna Eletrônica (Python)
+<a href="https://github.com/Miguelberlando/urna-eletronica">
+  <img src="https://img.shields.io/badge/Ver%20Projeto-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<p style="color:#FFFFFF; max-width:600px;">
+Sistema simples de votação com contagem automática, porcentagem e identificação do vencedor.
+</p>
+
 </div>
 
-<hr>
+## 🎯 Objetivos
+<div align="center" style="color:#FFFFFF;">
+  <p>Busco uma <strong>oportunidade como estagiário Front-End</strong> para aprender com profissionais da área,<br>
+  contribuir com a equipe e desenvolver minhas habilidades técnicas e interpessoais.</p>
+</div>
+
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Miguelberlando&color=946b3a&bg_color=946b3a&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Miguelberlando&color=000000&label=VISITAS&style=for-the-badge" />
 </div>
-
-
