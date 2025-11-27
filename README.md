@@ -86,6 +86,19 @@ Sistema simples de votação com contagem automática, porcentagem e identifica�
 
 </div>
 
+<div align="center">
+
+### 🔹 Urna Eletrônica (Python)
+<a href="https://github.com/Miguelberlando/sistema-priorizacao-v1">
+  <img src="https://img.shields.io/badge/Ver%20Projeto-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<p style="color:#FFFFFF; max-width:600px;">
+Sistema simples de votação com contagem automática, porcentagem e identificação do vencedor.
+</p>
+
+</div>
+
 ## 🎯 Objetivos
 <div align="center" style="color:#FFFFFF;">
   <p>Busco uma <strong>oportunidade como estagiário Front-End</strong> para aprender com profissionais da área,<br>
