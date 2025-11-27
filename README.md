@@ -88,13 +88,13 @@ Sistema simples de votação com contagem automática, porcentagem e identifica�
 
 <div align="center">
 
-### 🔹 Urna Eletrônica (Python)
-<a href="https://github.com/Miguelberlando/sistema-priorizacao-v1">
+### 🔹 Sistema de Priorização de pedidos (JavaScript)
+<a href="https://github.com/Miguelberlando/sistema-priorizacao-pedido-v1">
   <img src="https://img.shields.io/badge/Ver%20Projeto-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <p style="color:#FFFFFF; max-width:600px;">
-Sistema simples de votação com contagem automática, porcentagem e identificação do vencedor.
+Sistema logístico de organização de pedidos por prioridade; utilizando contagem de pontos para mensuração e objetos como identificador do pedido e suas características.
 </p>
 
 </div>
