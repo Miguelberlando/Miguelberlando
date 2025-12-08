@@ -23,19 +23,19 @@
 </div>
 
 
-## Sobre mim
+## About Me
 Sou estudante de **Informática para Negócios (FATEC)** e desenvolvedor em formação, buscando minha **primeira oportunidade como estagiário**.  
 Tenho facilidade em aprender novas ferramentas, gosto de ajudar pessoas e me esforço para entregar tudo com organização, responsabilidade e foco.
 
-Atualmente estudo:
+Studying:
 
 - **JavaScript** (aprendizado autodidata)  
 - **Lógica de Programação**  
 - **Python**  
 - **Git e GitHub**  
 
-Também possuo:
-- Certificado de **Honra ao Mérito**
+Also:
+- Certificado de **Honra ao Mérito** 
 - Certificação **Six Sigma White Belt**
 - Inglês **Intermediário B1 (TOEIC)**
 
@@ -52,7 +52,7 @@ Também possuo:
 </div>
 
 
-## 👨🏽‍💻 Tecnologias em Aprendizado
+## 👨🏽‍💻 Learning
 <div align="center">
 
   <img alt="JavaScript" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
@@ -62,7 +62,7 @@ Também possuo:
 </div>
 
 
-## 📊 Estatísticas 
+## 📊 Stats 
 <div align="center" style="display:flex; gap:20px; flex-wrap:wrap;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Miguelberlando&show_icons=true&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=000000" width="350"/>
@@ -72,7 +72,8 @@ Também possuo:
 </div>
 
 
-## 🚀 Projetos
+
+## 🚀 Projects
 <div align="center">
 
 ### 🔹 Urna Eletrônica (Python)
@@ -99,7 +100,7 @@ Sistema logístico de organização de pedidos por prioridade; utilizando contag
 
 </div>
 
-## 🎯 Objetivos
+## 🎯 Goals
 <div align="center" style="color:#FFFFFF;">
   <p>Busco uma <strong>oportunidade como estagiário Front-End</strong> para aprender com profissionais da área,<br>
   contribuir com a equipe e desenvolver minhas habilidades técnicas e interpessoais.</p>
