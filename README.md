@@ -91,7 +91,7 @@ Sistema logístico de organização de pedidos por prioridade; utilizando contag
 
 ## 🎯 Goals
 <div align="center" style="color:#FFFFFF;">
-  <p>Busco uma <strong>oportunidade como estagiário Front-End</strong> para aprender com profissionais da área,<br>
+  <p>Busco uma <strong>oportunidade como Desenvolvedor Júnior Front-End</strong> para aprender com profissionais da área,<br>
   contribuir com a equipe e desenvolver minhas habilidades técnicas e interpessoais.</p>
 </div>
 
