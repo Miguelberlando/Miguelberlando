@@ -24,7 +24,7 @@
 
 
 ## About Me
-Sou estudante de **Informática para Negócios (FATEC)** e desenvolvedor em formação, buscando minha **primeira oportunidade como estagiário**.  
+Sou estudante de **Informática para Negócios (FATEC)** e desenvolvedor em formação, buscando minha **primeira oportunidade como Desenvolvedor Júnior**.  
 Tenho facilidade em aprender novas ferramentas, gosto de ajudar pessoas e me esforço para entregar tudo com organização, responsabilidade e foco.
 
 Studying:
@@ -60,18 +60,6 @@ Also:
   <img alt="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 
 </div>
-
-
-## 📊 Stats 
-<div align="center" style="display:flex; gap:20px; flex-wrap:wrap;">
-
-  <img src="https://github-readme-stats-miguerlpro.vercel.app/api?username=Miguelberlando&show_icons=true&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=000000" width="350"/>
-
-  <img src="https://github-readme-stats-miguerlpro.vercel.app/api/top-langs/?username=Miguelberlando&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000" width="350"/>
-
-</div>
-
-
 
 
 ## 🚀 Projects
