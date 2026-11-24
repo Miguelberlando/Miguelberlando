@@ -5,13 +5,14 @@
 
 <p align="center">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://jsdelivr.net" alt="LinkedIn" width="38" height="38" />
+    <img src="https://githubusercontent.com" alt="LinkedIn" width="40" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:miguel.berlando@gmail.com">
-    <img src="https://jsdelivr.net" alt="Gmail" width="38" height="38" />
+    <img src="https://githubusercontent.com" alt="Gmail" width="40" height="40" />
   </a>
 </p>
+
 
 
 ---
