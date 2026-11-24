@@ -22,7 +22,8 @@ Tenho facilidade em aprender novas ferramentas, gosto de ajudar pessoas e me esf
 - **JavaScript (ES6+)** (aprendizado autodidata)  
 - **Lógica de Programação**  
 - **Vue.js**  
-- **Git e GitHub**  
+- **Git e GitHub**
+- **Prototipação e Design em Figma**
 
 **Também possuo:**
 - Certificado de **Honra ao Mérito** 
