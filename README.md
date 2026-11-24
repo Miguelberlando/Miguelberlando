@@ -1,42 +1,50 @@
 <div align="center">
-  <h1>Miguel Berlando</h1>
-  <p>Estudante de Informática para Negócios (FATEC) • Foco em Front-End</p>
+  <h1>MIGUEL BERLANDO</h1>
+  <p>Desenvolvedor em Formação</p>
+
+  <p>
+    <a href="https://linkedin.com" target="_blank">
+      <img src="https://shields.io" alt="LinkedIn" />
+    </a>
+    <a href="mailto:miguel.berlando@gmail.com">
+      <img src="https://shields.io" alt="Gmail" />
+    </a>
+  </p>
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://githubusercontent.com" alt="LinkedIn" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:miguel.berlando@gmail.com">
-    <img src="https://githubusercontent.com" alt="Gmail" width="40" height="40" />
-  </a>
-</p>
+---
 
+## Sobre mim
+Sou estudante de **Informática para Negócios (FATEC)** e desenvolvedor em formação, buscando minha **primeira oportunidade como Desenvolvedor Júnior**.  
+Tenho facilidade em aprender novas ferramentas, gosto de ajudar pessoas e me esforço para entregar tudo com organização, responsabilidade e foco.
 
+**Estudando:**
+- **JavaScript** (aprendizado autodidata)  
+- **Lógica de Programação**  
+- **Python**  
+- **Git e GitHub**  
+
+**Também possuo:**
+- Certificado de **Honra ao Mérito** 
+- Certificação **Six Sigma White Belt**
+- Inglês **Intermediário B1 (TOEIC)**
 
 ---
 
-### Sobre mim
-
-Oi! Sou o Miguel, estudo **Informática para Negócios na FATEC São Bernardo do Campo** e estou em busca da minha **primeira oportunidade como Desenvolvedor Júnior Front-End**.
-
-Gosto de resolver problemas de forma organizada e trabalhar em equipe — algo que trago bastante da minha experiência prévia com atendimento ao cliente e rotina ágil. No dia a dia, tenho facilidade para aprender novas ferramentas e busco sempre entregar o que me proponho com responsabilidade e atenção aos detalhes.
-
-**O que venho estudando na prática:**
-- **Interfaces e Front-End:** Vue.js, JavaScript e prototipação no Figma
-- **Lógica e Back-End:** Java, Python e estruturação de algoritmos
-- **Controle de versão:** Git e GitHub
-
-**Formação complementar:**
-- Certificado de Honra ao Mérito
-- Certificação Lean Six Sigma White Belt
-- Inglês Intermediário — B1 (TOEIC)
+## Habilidades Interpessoais
+<div align="center">  
+✔ Comunicação clara<br>
+✔ Organização e priorização diária<br>
+✔ Responsabilidade com entregas<br>
+✔ Facilidade para trabalho em equipe<br>
+✔ Atendimento ao cliente (experiência prévia)<br>
+✔ Noção de disciplina e hierarquia<br>
+✔ Rápida adaptação e aprendizado
+</div>
 
 ---
 
-### Tecnologias
-
+## Tecnologias
 <p align="center">
   <img alt="Vue.js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />&nbsp;&nbsp;
   <img alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
@@ -44,19 +52,43 @@ Gosto de resolver problemas de forma organizada e trabalhar em equipe — algo q
   <img alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </p>
 
-
 ---
 
-### Projetos em destaque
+## Projetos
+<div align="center">
 
-**Sistema de Priorização de Pedidos (`JavaScript`)**  
-Simulador logístico que organiza entregas por ordem de prioridade. Utiliza um sistema de pontuação baseado em urgência, perfil do cliente, valor e distância, manipulando objetos para estruturar cada pedido.  
-[Acessar código no GitHub →](https://github.com)
+### 🔹 Urna Eletrônica (Python)
+<a href="https://github.com">
+  <img src="https://shields.io" alt="Ver Projeto" />
+</a>
+
+<p>
+Sistema simples de votação com contagem automática, porcentagem e identificação do vencedor.
+</p>
+
+</div>
 
 <br>
 
-**Urna Eletrônica (`Python`)**  
-Aplicação de votação via terminal com registro de votos, apuração geral, cálculo automático de percentuais e verificação de empates.  
-[Acessar código no GitHub →](https://github.com)
+<div align="center">
+
+### 🔹 Sistema de Priorização de Pedidos (JavaScript)
+<a href="https://github.com">
+  <img src="https://shields.io" alt="Ver Projeto" />
+</a>
+
+<p>
+Sistema logístico de organização de pedidos por prioridade, utilizando contagem de pontos para mensuração e objetos como identificador do pedido e suas características.
+</p>
+
+</div>
+
+---
+
+## Objetivo
+<div align="center">
+  <p>Busco uma <strong>oportunidade como Desenvolvedor Júnior Front-End</strong> para aprender com profissionais da área,<br>
+  contribuir com a equipe e desenvolver minhas habilidades técnicas e interpessoais.</p>
+</div>
 
 
