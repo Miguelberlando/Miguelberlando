@@ -1,103 +1,61 @@
-<!-- HEADER -->
-<h1 align="center" style="color:#FFFFFF; font-weight:300; letter-spacing:3px; margin-bottom:5px;">
-  MIGUEL BERLANDO
-</h1>
-<p align="center" style="color:#FFFFFF; font-size:18px; margin-top:-5px;">
-  Desenvolvedor em Formação
-</p>
+<div align="center">
+  <h1>Miguel Berlando</h1>
+  <p>Estudante de Informática para Negócios (FATEC) • Foco em Front-End</p>
+</div>
 
-<hr style="border:0; height:2px; background:linear-gradient(90deg,transparent,#ffffff,transparent); margin:25px 0;">
-
-
-<!-- CONTATOS -->
-<div align="center" style="margin-top:-10px">
-
-  <a href="https://www.linkedin.com/in/miguel-berlando-3085b32a4" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF">
+<p align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://jsdelivr.net" alt="LinkedIn" width="38" height="38" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:miguel.berlando@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF">
+    <img src="https://jsdelivr.net" alt="Gmail" width="38" height="38" />
   </a>
-
-</div>
-
-
-## About Me
-Sou estudante de **Informática para Negócios (FATEC)** e desenvolvedor em formação, buscando minha **primeira oportunidade como Desenvolvedor Júnior**.  
-Tenho facilidade em aprender novas ferramentas, gosto de ajudar pessoas e me esforço para entregar tudo com organização, responsabilidade e foco.
-
-Studying:
-
-- **JavaScript** (aprendizado autodidata)  
-- **Lógica de Programação**  
-- **Python**  
-- **Git e GitHub**  
-
-Also:
-- Certificado de **Honra ao Mérito** 
-- Certificação **Six Sigma White Belt**
-- Inglês **Intermediário B1 (TOEIC)**
-
-
-## Soft Skills
-<div align="center" style="color:#FFFFFF;">  
-✔ Comunicação clara  
-✔ Organização e priorização diária  
-✔ Responsabilidade com entregas  
-✔ Facilidade para trabalho em equipe  
-✔ Atendimento ao cliente (experiência prévia)  
-✔ Noção de Disciplina e Hierarquia
-✔ Rápida adaptação e aprendizado
-</div>
-
-
-## 👨🏽‍💻 Learning
-<div align="center">
-
-  <img alt="JavaScript" height="50" src="https://githubusercontent.com"/>
-  <img alt="Vue.js" height="50" src="https://githubusercontent.com"/>
-  <img alt="Figma" height="50" src="https://githubusercontent.com"/>
-  <img alt="Java" height="50" src="https://githubusercontent.com"/>
-  <img alt="Git" height="50" src="https://githubusercontent.com"/>
-
-</div>
-
-
-## 🚀 Projects
-<div align="center">
-
-### 🔹 Urna Eletrônica (Python)
-<a href="https://github.com/Miguelberlando/urna-eletronica">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<p style="color:#FFFFFF; max-width:600px;">
-Sistema simples de votação com contagem automática, porcentagem e identificação do vencedor.
 </p>
 
-</div>
 
-<div align="center">
+---
 
-### 🔹 Sistema de Priorização de pedidos (JavaScript)
-<a href="https://github.com/Miguelberlando/sistema-priorizacao-pedido-v1">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
+### Sobre mim
 
-<p style="color:#FFFFFF; max-width:600px;">
-Sistema logístico de organização de pedidos por prioridade; utilizando contagem de pontos para mensuração e objetos como identificador do pedido e suas características.
+Oi! Sou o Miguel, estudo **Informática para Negócios na FATEC São Bernardo do Campo** e estou em busca da minha **primeira oportunidade como Desenvolvedor Júnior Front-End**.
+
+Gosto de resolver problemas de forma organizada e trabalhar em equipe — algo que trago bastante da minha experiência prévia com atendimento ao cliente e rotina ágil. No dia a dia, tenho facilidade para aprender novas ferramentas e busco sempre entregar o que me proponho com responsabilidade e atenção aos detalhes.
+
+**O que venho estudando na prática:**
+- **Interfaces e Front-End:** Vue.js, JavaScript e prototipação no Figma
+- **Lógica e Back-End:** Java, Python e estruturação de algoritmos
+- **Controle de versão:** Git e GitHub
+
+**Formação complementar:**
+- Certificado de Honra ao Mérito
+- Certificação Lean Six Sigma White Belt
+- Inglês Intermediário — B1 (TOEIC)
+
+---
+
+### Tecnologias
+
+<p align="center">
+  <img alt="Vue.js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />&nbsp;&nbsp;
+  <img alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  <img alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />&nbsp;&nbsp;
+  <img alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </p>
 
-</div>
 
-## 🎯 Goals
-<div align="center" style="color:#FFFFFF;">
-  <p>Busco uma <strong>oportunidade como Desenvolvedor Júnior Front-End</strong> para aprender com profissionais da área,<br>
-  contribuir com a equipe e desenvolver minhas habilidades técnicas e interpessoais.</p>
-</div>
+---
+
+### Projetos em destaque
+
+**Sistema de Priorização de Pedidos (`JavaScript`)**  
+Simulador logístico que organiza entregas por ordem de prioridade. Utiliza um sistema de pontuação baseado em urgência, perfil do cliente, valor e distância, manipulando objetos para estruturar cada pedido.  
+[Acessar código no GitHub →](https://github.com)
+
+<br>
+
+**Urna Eletrônica (`Python`)**  
+Aplicação de votação via terminal com registro de votos, apuração geral, cálculo automático de percentuais e verificação de empates.  
+[Acessar código no GitHub →](https://github.com)
 
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Miguelberlando&color=000000&label=VISITAS&style=for-the-badge" />
-</div>
