@@ -19,9 +19,9 @@ Sou estudante de **Informática para Negócios (FATEC)** e desenvolvedor em form
 Tenho facilidade em aprender novas ferramentas, gosto de ajudar pessoas e me esforço para entregar tudo com organização, responsabilidade e foco.
 
 **Estudando:**
-- **JavaScript** (aprendizado autodidata)  
+- **JavaScript (ES6+)** (aprendizado autodidata)  
 - **Lógica de Programação**  
-- **Python**  
+- **Vue.js**  
 - **Git e GitHub**  
 
 **Também possuo:**
