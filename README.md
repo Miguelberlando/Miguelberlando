@@ -55,9 +55,11 @@ Also:
 ## 👨🏽‍💻 Learning
 <div align="center">
 
-  <img alt="JavaScript" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img alt="Vue.js" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-  <img alt="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img alt="JavaScript" height="50" src="https://githubusercontent.com"/>
+  <img alt="Vue.js" height="50" src="https://githubusercontent.com"/>
+  <img alt="Figma" height="50" src="https://githubusercontent.com"/>
+  <img alt="Java" height="50" src="https://githubusercontent.com"/>
+  <img alt="Git" height="50" src="https://githubusercontent.com"/>
 
 </div>
 
